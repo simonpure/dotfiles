@@ -1,6 +1,10 @@
 [core]
   editor = vim
 
+[user]
+  name = "simonpure"
+  email = "simon.l@gmail.com"
+
 [color]
   diff = auto
   status = auto
