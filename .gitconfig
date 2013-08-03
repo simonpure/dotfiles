@@ -1,6 +1,8 @@
 [core]
   editor = vim
 
+[credential]
+  helper = "cache --timeout=3600"
 [user]
   name = "simonpure"
   email = "simon.l@gmail.com"
